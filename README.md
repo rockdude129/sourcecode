@@ -10,5 +10,3 @@ It is also my Passion Project for my core class.
 [Website](https://nandanper5.wixsite.com/passionproj)
 
 
-
-W STEVEN FRRR
