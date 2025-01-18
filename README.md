@@ -9,4 +9,4 @@ It is also my Passion Project for my core class.
 
 [Website](https://nandanper5.wixsite.com/passionproj)
 
-Thank you to Steven for writing this ReadME File!
+Thank you to Steven for writing this ReadME File for me!
